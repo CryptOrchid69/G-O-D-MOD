@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <Author>CryptOrchid69</Author>
+    <ModName>G-O-D MOD</ModName>
+    <Description>Grants godlike powers to the player character: Invincibility, Max Tech Modifications, Unlimited Resources, and Unlimited Building</Description>
+    <Version>1.0.0</Version>
+    <Category>Gameplay</Category>
+    <TargetGame>NoMansSky</TargetGame>
+    <MinimumGameVersion>Latest</MinimumGameVersion>
+    <ChangeLog>
+        <Change Version="1.0.0">
+            - Initial release
+            - Invincibility system
+            - Max tech modifications for exosuit and multitool
+            - Unlimited ammo, jetpack, and multitool functions
+            - Unlimited building capabilities
+        </Change>
+    </ChangeLog>
+</ModMetaData>

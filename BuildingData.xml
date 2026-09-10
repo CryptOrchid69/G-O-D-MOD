@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="GcBuildingData">
+    <!-- UNLIMITED BUILDING CAPABILITIES -->
+    <!-- Remove material costs for building -->
+    <Property name="BuildingCostMultiplier" value="0.0" />
+    <Property name="DeconstructionRefundMultiplier" value="1.0" />
+    
+    <!-- Unlimited placement -->
+    <Property name="MaxBuildingParts" value="999999" />
+    <Property name="MaxBuildingDistance" value="999999" />
+    <Property name="MaxBuildingHeight" value="999999" />
+    
+    <!-- Remove building restrictions -->
+    <Property name="RequireFoundation" value="false" />
+    <Property name="RequireSupport" value="false" />
+    <Property name="EnforceCollision" value="false" />
+    
+    <!-- Instant placement -->
+    <Property name="BuildPlacementDelay" value="0.0" />
+    <Property name="BuildPlacementCost" value="0" />
+    
+</Data>

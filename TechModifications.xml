@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="GcTechnologyData">
+    <!-- MAX TECH MODIFICATIONS FOR EXOSUIT AND MULTITOOL -->
+    
+    <!-- EXOSUIT CORE TECHNOLOGIES -->
+    <!-- Shield/Protection Systems -->
+    <Technology>
+        <Id>SHIELD_GAUSS</Id>
+        <Name>Dimensional Shield</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Exosuit_Core_Shield</Slot>
+    </Technology>
+    
+    <Technology>
+        <Id>SHIELD_PHOTON</Id>
+        <Name>Photon Shield</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Exosuit_Core_Shield_Alt</Slot>
+    </Technology>
+    
+    <!-- Environmental Protection -->
+    <Technology>
+        <Id>ENV_HAZARD_PROTECTION</Id>
+        <Name>Environmental Protection Unit</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Exosuit_Environmental</Slot>
+    </Technology>
+    
+    <Technology>
+        <Id>THERMAL_SHIELD</Id>
+        <Name>Thermal Protection</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Exosuit_Thermal</Slot>
+    </Technology>
+    
+    <Technology>
+        <Id>RADIATION_SHIELD</Id>
+        <Name>Radiation Protection</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Exosuit_Radiation</Slot>
+    </Technology>
+    
+    <Technology>
+        <Id>TOXIN_SHIELD</Id>
+        <Name>Toxic Protection</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Exosuit_Toxin</Slot>
+    </Technology>
+    
+    <!-- Movement and Mobility -->
+    <Technology>
+        <Id>JETPACK_ENGINE</Id>
+        <Name>Positron Ejector</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Exosuit_Jetpack</Slot>
+    </Technology>
+    
+    <Technology>
+        <Id>SPRINT_BOOST</Id>
+        <Name>Athletic Frame</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Exosuit_Sprint</Slot>
+    </Technology>
+    
+    <Technology>
+        <Id>UNDERWATER_BREATHING</Id>
+        <Name>Underwater Respiration System</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Exosuit_Underwater</Slot>
+    </Technology>
+    
+    <!-- Scanning and Detection -->
+    <Technology>
+        <Id>SUIT_SCANNER</Id>
+        <Name>Advanced Scanner</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Exosuit_Scanner</Slot>
+    </Technology>
+    
+    <Technology>
+        <Id>ANALYSIS_VISOR</Id>
+        <Name>Analysis Visor</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Exosuit_Analysis</Slot>
+    </Technology>
+    
+    <!-- MULTITOOL CORE TECHNOLOGIES -->
+    <!-- Weapons -->
+    <Technology>
+        <Id>MULTITOOL_LASER</Id>
+        <Name>Positron Ejector</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Multitool_Laser</Slot>
+    </Technology>
+    
+    <Technology>
+        <Id>MULTITOOL_CANNON</Id>
+        <Name>Neutron Cannon</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Multitool_Cannon</Slot>
+    </Technology>
+    
+    <Technology>
+        <Id>MULTITOOL_SCATTER</Id>
+        <Name>Scatter Blaster</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Multitool_Scatter</Slot>
+    </Technology>
+    
+    <!-- Mining and Harvesting -->
+    <Technology>
+        <Id>MINING_BEAM</Id>
+        <Name>Mining Beam</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Multitool_Mining</Slot>
+    </Technology>
+    
+    <Technology>
+        <Id>POWER_DRILL</Id>
+        <Name>Power Drill</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Multitool_Drill</Slot>
+    </Technology>
+    
+    <!-- Scanning and Analysis -->
+    <Technology>
+        <Id>MULTITOOL_SCANNER</Id>
+        <Name>Multitool Scanner</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Multitool_Scanner</Slot>
+    </Technology>
+    
+    <Technology>
+        <Id>FAUNA_ANALYZER</Id>
+        <Name>Fauna Analyzer</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Multitool_Analysis</Slot>
+    </Technology>
+    
+    <!-- Utility -->
+    <Technology>
+        <Id>TERRAIN_MANIPULATOR</Id>
+        <Name>Terrain Manipulator</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Multitool_Terrain</Slot>
+    </Technology>
+    
+    <!-- BLACK MARKET MODIFICATIONS -->
+    <Technology>
+        <Id>EXOTIC_SHIELD</Id>
+        <Name>Exotic Shield Generator</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Exosuit_Exotic_1</Slot>
+        <BlackMarket>true</BlackMarket>
+    </Technology>
+    
+    <Technology>
+        <Id>EXOTIC_DAMAGE_BOOST</Id>
+        <Name>Exotic Damage Enhancement</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Multitool_Exotic_1</Slot>
+        <BlackMarket>true</BlackMarket>
+    </Technology>
+    
+    <Technology>
+        <Id>EXOTIC_HARVESTING</Id>
+        <Name>Exotic Harvesting Boost</Name>
+        <Level>10</Level>
+        <Enabled>true</Enabled>
+        <Slot>Multitool_Exotic_2</Slot>
+        <BlackMarket>true</BlackMarket>
+    </Technology>
+    
+</Data>

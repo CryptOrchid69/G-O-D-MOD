@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data template="GcPlayerData">
+    <!-- INVINCIBILITY SYSTEM -->
+    <!-- Set player health to effectively infinite -->
+    <Property name="Health" value="99999" />
+    <Property name="MaxHealth" value="99999" />
+    
+    <!-- Disable damage from all sources -->
+    <Property name="DamageMultiplier" value="0.0" />
+    <Property name="EnvironmentalDamage" value="0.0" />
+    <Property name="CreatureDamage" value="0.0" />
+    <Property name="SentinelDamage" value="0.0" />
+    <Property name="RadiationDamage" value="0.0" />
+    <Property name="ToxicDamage" value="0.0" />
+    <Property name="ColdDamage" value="0.0" />
+    <Property name="HotDamage" value="0.0" />
+    <Property name="UnderwaterOxygenDrainRate" value="0.0" />
+    
+    <!-- UNLIMITED RESOURCES -->
+    <!-- Infinite ammo -->
+    <Property name="AmmoCapacity" value="99999" />
+    <Property name="CurrentAmmo" value="99999" />
+    <Property name="AmmoConsumptionRate" value="0.0" />
+    
+    <!-- Infinite jetpack -->
+    <Property name="JetpackFuel" value="99999" />
+    <Property name="MaxJetpackFuel" value="99999" />
+    <Property name="JetpackDrainRate" value="0.0" />
+    
+    <!-- Infinite multitool energy -->
+    <Property name="MultitoolEnergy" value="99999" />
+    <Property name="MaxMultitoolEnergy" value="99999" />
+    <Property name="MultitoolEnergyDrainRate" value="0.0" />
+    
+</Data>

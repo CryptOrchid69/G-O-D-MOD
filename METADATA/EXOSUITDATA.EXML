@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- NO MAN'S SKY EXOSUIT TECHNOLOGY MODIFICATIONS -->
+<!-- ALL TECHNOLOGIES SET TO MAXIMUM LEVEL -->
+<Data template="GcExosuitData">
+  
+  <!-- PROTECTION TECHNOLOGIES -->
+  <Technology>
+    <ID>EXOTECH_SHIELD</ID>
+    <Name>Dimensional Shield</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+  <Technology>
+    <ID>EXOTECH_THERMAL</ID>
+    <Name>Thermal Protection</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+  <Technology>
+    <ID>EXOTECH_RADIATION</ID>
+    <Name>Radiation Protection</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+  <Technology>
+    <ID>EXOTECH_TOXIC</ID>
+    <Name>Toxic Protection</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+  <!-- MOVEMENT TECHNOLOGIES -->
+  <Technology>
+    <ID>EXOTECH_JETPACK</ID>
+    <Name>Positron Ejector (Jetpack)</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+  <Technology>
+    <ID>EXOTECH_SPRINT</ID>
+    <Name>Athletic Frame</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+  <Technology>
+    <ID>EXOTECH_UNDERWATER</ID>
+    <Name>Underwater Respiration System</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+  <!-- SCANNING TECHNOLOGIES -->
+  <Technology>
+    <ID>EXOTECH_SCANNER</ID>
+    <Name>Advanced Scanner</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+  <Technology>
+    <ID>EXOTECH_ANALYSIS</ID>
+    <Name>Analysis Visor</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+
+  <!-- INVENTORY EXPANSION -->
+  <Technology>
+    <ID>EXOTECH_INVENTORY_TECH</ID>
+    <Name>Inventory Expansion</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+  <!-- EXOTIC BLACK MARKET TECHNOLOGIES -->
+  <Technology>
+    <ID>EXOTECH_EXOTIC_SHIELD</ID>
+    <Name>Exotic Shield Generator</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+  <Technology>
+    <ID>EXOTECH_EXOTIC_DAMAGE</ID>
+    <Name>Exotic Damage Enhancement</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+  <Technology>
+    <ID>EXOTECH_EXOTIC_HARVEST</ID>
+    <Name>Exotic Harvesting Boost</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+</Data>

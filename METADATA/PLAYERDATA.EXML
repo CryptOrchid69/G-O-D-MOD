@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- NO MAN'S SKY PLAYER DATA MODIFICATIONS -->
+<!-- INVINCIBILITY + UNLIMITED RESOURCES -->
+<Data template="GcPlayerData">
+  <!-- PLAYER HEALTH AND INVINCIBILITY -->
+  <Property name="Health" value="99999" />
+  <Property name="MaxHealth" value="99999" />
+  <Property name="Shield" value="99999" />
+  <Property name="MaxShield" value="99999" />
+  <Property name="Energy" value="99999" />
+  <Property name="MaxEnergy" value="99999" />
+  
+  <!-- DISABLE ALL DAMAGE -->
+  <Property name="DamageMultiplier" value="0.0" />
+  <Property name="EnvironmentalDamageMultiplier" value="0.0" />
+  <Property name="CreatureDamageMultiplier" value="0.0" />
+  <Property name="SentinelDamageMultiplier" value="0.0" />
+  <Property name="WeaponDamageMultiplier" value="0.0" />
+  <Property name="FallDamageMultiplier" value="0.0" />
+  <Property name="RadiationDamageMultiplier" value="0.0" />
+  <Property name="ToxicDamageMultiplier" value="0.0" />
+  
+  <!-- DISABLE ENVIRONMENTAL DRAIN -->
+  <Property name="EnvironmentDrainRate" value="0.0" />
+  <Property name="RadiationDrainRate" value="0.0" />
+  <Property name="ToxicDrainRate" value="0.0" />
+  <Property name="ColdDrainRate" value="0.0" />
+  <Property name="HeatDrainRate" value="0.0" />
+  <Property name="UnderwaterDrainRate" value="0.0" />
+  
+  <!-- UNLIMITED JETPACK -->
+  <Property name="JetpackFuel" value="99999" />
+  <Property name="MaxJetpackFuel" value="99999" />
+  <Property name="JetpackDrainRate" value="0.0" />
+  <Property name="JetpackRechargeRate" value="99999" />
+  
+  <!-- UNLIMITED MULTITOOL ENERGY -->
+  <Property name="MultitoolEnergy" value="99999" />
+  <Property name="MaxMultitoolEnergy" value="99999" />
+  <Property name="MultitoolDrainRate" value="0.0" />
+  <Property name="MultitoolRechargeRate" value="99999" />
+  
+  <!-- UNLIMITED AMMUNITION -->
+  <Property name="AmmoMultiplier" value="0.0" />
+  <Property name="WeaponAmmoConsumption" value="0.0" />
+  
+</Data>

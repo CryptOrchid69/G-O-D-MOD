@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- NO MAN'S SKY BUILDING MODIFICATIONS -->
+<!-- UNLIMITED BUILDING WITH NO MATERIAL COST -->
+<Data template="GcBuildingData">
+  
+  <!-- BUILDING COST MULTIPLIER - SET TO 0 FOR FREE BUILDING -->
+  <Property name="BuildingCostMultiplier" value="0.0" />
+  <Property name="BuildingMaterialCost" value="0" />
+  <Property name="BuildingEnergyCost" value="0" />
+  
+  <!-- BUILDING PLACEMENT LIMITS - SET TO MAX -->
+  <Property name="MaxBuildingPieces" value="99999" />
+  <Property name="MaxBuildingDistance" value="500" />
+  <Property name="BuildingPlacementRange" value="500" />
+  
+  <!-- BUILDING REQUIREMENTS -->
+  <Property name="RequireFoundation" value="false" />
+  <Property name="RequireStructuralSupport" value="false" />
+  <Property name="RequireConnectionToBase" value="false" />
+  <Property name="CheckTerrainCollisions" value="false" />
+  
+  <!-- INSTANT PLACEMENT -->
+  <Property name="BuildingPlacementDelay" value="0.0" />
+  <Property name="BuildingConstructionTime" value="0.0" />
+  
+  <!-- FULL DECONSTRUCTION REFUND -->
+  <Property name="DeconstructionRefundPercentage" value="100" />
+  
+  <!-- UNLIMITED RESOURCES FOR BUILDING -->
+  <Property name="UnlimitedBuildingResources" value="true" />
+  <Property name="IgnoreCargoSpaceRequirement" value="true" />
+  
+</Data>

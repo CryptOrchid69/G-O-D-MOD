@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- NO MAN'S SKY MULTITOOL TECHNOLOGY MODIFICATIONS -->
+<!-- ALL TECHNOLOGIES SET TO MAXIMUM LEVEL -->
+<Data template="GcMultitoolData">
+  
+  <!-- WEAPON TECHNOLOGIES -->
+  <Technology>
+    <ID>MULTITOOL_LASER</ID>
+    <Name>Positron Ejector (Laser)</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+    <Ammo>99999</Ammo>
+    <MaxAmmo>99999</MaxAmmo>
+  </Technology>
+  
+  <Technology>
+    <ID>MULTITOOL_CANNON</ID>
+    <Name>Neutron Cannon</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+    <Ammo>99999</Ammo>
+    <MaxAmmo>99999</MaxAmmo>
+  </Technology>
+  
+  <Technology>
+    <ID>MULTITOOL_SCATTER</ID>
+    <Name>Scatter Blaster</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+    <Ammo>99999</Ammo>
+    <MaxAmmo>99999</MaxAmmo>
+  </Technology>
+  
+  <!-- MINING TECHNOLOGIES -->
+  <Technology>
+    <ID>MULTITOOL_MINING</ID>
+    <Name>Mining Beam</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+    <Energy>99999</Energy>
+    <MaxEnergy>99999</MaxEnergy>
+  </Technology>
+  
+  <Technology>
+    <ID>MULTITOOL_DRILL</ID>
+    <Name>Power Drill</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+    <Energy>99999</Energy>
+    <MaxEnergy>99999</MaxEnergy>
+  </Technology>
+  
+  <!-- SCANNING TECHNOLOGIES -->
+  <Technology>
+    <ID>MULTITOOL_SCANNER</ID>
+    <Name>Multitool Scanner</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+  <Technology>
+    <ID>MULTITOOL_FAUNA</ID>
+    <Name>Fauna Analyzer</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+  <!-- UTILITY TECHNOLOGIES -->
+  <Technology>
+    <ID>MULTITOOL_TERRAIN</ID>
+    <Name>Terrain Manipulator</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+    <Energy>99999</Energy>
+    <MaxEnergy>99999</MaxEnergy>
+  </Technology>
+  
+  <!-- EXOTIC TECHNOLOGIES -->
+  <Technology>
+    <ID>MULTITOOL_EXOTIC_DAMAGE</ID>
+    <Name>Exotic Damage Boost</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+  <Technology>
+    <ID>MULTITOOL_EXOTIC_ACCURACY</ID>
+    <Name>Exotic Accuracy Enhancement</Name>
+    <Level>10</Level>
+    <MaxLevel>10</MaxLevel>
+    <Efficiency>1.0</Efficiency>
+  </Technology>
+  
+</Data>
